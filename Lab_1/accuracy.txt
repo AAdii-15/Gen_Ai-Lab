@@ -1,28 +1,4 @@
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "provenance": []
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "source": [
-        "ResNet-50 Proxy Accuracy: 100%\n",
-        "Custom CNN Accuracy: 100%\n"
-      ],
-      "metadata": {
-        "id": "s1yd1HxET1iG"
-      }
-    }
-  ]
-}
+ResNet-50 Proxy Accuracy: 100%
+Custom CNN Accuracy: 100%
+
+
