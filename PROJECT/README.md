@@ -1,4 +1,4 @@
-# 🔬 PulseIQ AI
+# PulseIQ AI
 ### *Detect Before it's Too Late — Just By Your Voice*
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 **PulseIQ AI** is a voice-powered, multi-disease early detection system that analyzes a user's voice to identify early risk indicators of multiple diseases — all from a single 30-second voice sample. No wearables, no blood tests, no hospital visits required.
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚨 The Problem
+## The Problem
 
 - Diseases like Parkinson's, diabetes, cardiac conditions, and cognitive decline are often detected **too late**
 - Existing early detection tools are **expensive, invasive, and inaccessible** to the general public
@@ -24,7 +24,7 @@
 
 ---
 
-## 💡 Our Solution
+##  Our Solution
 
 PulseIQ AI uses **voice biomarker analysis** combined with **Generative AI** to:
 - Analyze acoustic features (pitch, tremor, jitter, shimmer, breathiness) from voice
@@ -34,20 +34,20 @@ PulseIQ AI uses **voice biomarker analysis** combined with **Generative AI** to:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 | Feature | Description |
 |---|---|
-| 🎙️ Voice-Based Input | 30-second voice sample via phone mic |
-| 🔍 Multi-Disease Detection | Parkinson's, Diabetes, Cardiac, Cognitive Impairment |
-| 🧠 Explainable AI | SHAP-based explanations for each risk flag |
-| 🌐 Multilingual | Hindi, English, and regional language support |
-| 📱 Accessible | Works on any smartphone, no hardware needed |
-| 📋 Risk Report | Confidence scores with actionable next steps |
+|  Voice-Based Input | 30-second voice sample via phone mic |
+|  Multi-Disease Detection | Parkinson's, Diabetes, Cardiac, Cognitive Impairment |
+|  Explainable AI | SHAP-based explanations for each risk flag |
+|  Multilingual | Hindi, English, and regional language support |
+|  Accessible | Works on any smartphone, no hardware needed |
+|  Risk Report | Confidence scores with actionable next steps |
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 PROJECT/
@@ -63,13 +63,13 @@ PROJECT/
 
 ---
 
-## 👥 Team
+## Team
 
 > GEN AI Lab Project — 2024–25
 
 ---
 
-## 📚 Research Foundation
+##  Research Foundation
 
 This project is backed by peer-reviewed research from **Nature**, **The Lancet**, **MDPI**, and **PMC** confirming that voice biomarkers can reliably detect diseases including Parkinson's, cognitive impairment, diabetes, cardiac issues, and more.
 
@@ -77,6 +77,6 @@ See [`LITERATURE_REVIEW.md`](./LITERATURE_REVIEW.md) for full details.
 
 ---
 
-## 🔮 Vision
+##  Vision
 
 To make early disease detection as simple as **making a phone call** — accessible to everyone, everywhere, in any language.
