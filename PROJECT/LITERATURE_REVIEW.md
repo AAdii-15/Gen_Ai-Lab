@@ -1,4 +1,4 @@
-# 📚 Literature Review
+#  Literature Review
 ## PulseIQ AI — Voice-Based Multi-Disease Early Detection System
 
 ---
