@@ -8,9 +8,12 @@
 
 | Name | Role |
 |---|---|
-| Aditya (AAdii-15) | Project Lead / AI & ML Developer |
+| Aditya Raj (AAdii-15) | Project Lead  |
+| Kunal Singh | Project helper |
 
-> *(Update this table if this is a group project)*
+
+
+> 
 
 ---
 
@@ -24,6 +27,9 @@
 - Identified 4 target diseases: Parkinson's, Cognitive Impairment (MCI), Type 2 Diabetes, Cardiovascular Disease
 - Analyzed 10+ research papers and compiled the full Literature Review
 - Identified the research gap: no existing system offers multi-disease screening from a single unstructured voice sample
+  
+
+### Kunal-Helper
 
 #### Phase 2: System Design
 - Designed the multi-disease AI pipeline architecture
