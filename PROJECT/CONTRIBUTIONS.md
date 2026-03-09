@@ -49,12 +49,12 @@
 
 | Task | Owner | Target |
 |---|---|---|
-| Feature extraction pipeline | Aditya | Week 8 |
-| Parkinson's baseline model | Aditya | Week 9 |
-| MCI baseline model | Aditya | Week 10 |
-| SHAP integration | Aditya | Week 11 |
-| Multi-disease pipeline | Aditya | Week 12 |
-| App prototype (frontend) | Aditya | Week 13–14 |
+| Feature extraction pipeline | Aditya,Kunal | Week 8 |
+| Parkinson's baseline model | Aditya,Kunal | Week 9 |
+| MCI baseline model | Aditya,Kunal | Week 10 |
+| SHAP integration | Aditya,Kunal | Week 11 |
+| Multi-disease pipeline | Aditya,Kunal | Week 12 |
+| App prototype (frontend) | Aditya,Kunal | Week 13–14 |
 
 ---
 
